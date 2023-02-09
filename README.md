@@ -1,6 +1,6 @@
 # The Tarot of the False Dichotomy
 
-My personal tarot deck, designed from scratch, freely available for anyone to use under the Creative Commons Attribution 4.0 license.  
+My personal tarot deck, designed from scratch, freely available for anyone to use under the Creative Commons Attribution 4.0 license.  It is a standard 78 cards, with 22 Major Arcana and 56 Minor Arcana.  However, the similarities with a traditional Rider-Waite deck end there.  Please review the guidebook in this repo for more details.
 
 # Acknowledgements
 
